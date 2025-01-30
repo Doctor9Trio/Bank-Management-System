@@ -327,6 +327,6 @@ void intro()
 	cout<<"\n\n\n\t  BANK";
 	cout<<"\n\n\tMANAGEMENT";
 	cout<<"\n\n\t  SYSTEM";
-	cout<<"\n\n\n\nMADE BY : ©️Tanmay Jaiswal";
+	cout<<"\n\n\n\nMADE BY : ©️ Doctor9Trio";
 	cin.get();
 }
